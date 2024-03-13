@@ -26,6 +26,7 @@
   ],
   "author": "Kyle Shevlin <kyle.a.shevlin@gmail.com> (https://kyleshevlin.com/)",
   "license": "MIT",
+  "publisher": "agathist",
   "bugs": {
     "url": "https://github.com/agathist/vscode-themes/issues"
   },
