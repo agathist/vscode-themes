@@ -1,0 +1,44 @@
+{
+  "name": "agathist-vscode-themes",
+  "displayName": "Agathist Themes",
+  "description": "A collection of VSCode themes based on Agathist's brand colors",
+  "version": "0.1.0",
+  "main": "index.js",
+  "icon": "./images/logo.png",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agathist/vscode-themes.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "agathist",
+    "theme",
+    "dark",
+    "rose",
+    "pink"
+  ],
+  "author": "Kyle Shevlin <kyle.a.shevlin@gmail.com> (https://kyleshevlin.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agathist/vscode-themes/issues"
+  },
+  "homepage": "https://github.com/agathist/vscode-themes#readme",
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Agathist Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/agathist-dark.json"
+      }
+    ]
+  }
+}
