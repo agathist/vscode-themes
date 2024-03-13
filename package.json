@@ -5,8 +5,11 @@
   "version": "0.1.0",
   "main": "index.js",
   "icon": "./images/logo.png",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "vsce publish"
   },
   "repository": {
     "type": "git",
@@ -40,5 +43,8 @@
         "path": "./themes/agathist-dark.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.24.0"
   }
 }
