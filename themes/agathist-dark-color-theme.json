@@ -19,7 +19,7 @@
     "textSeparator.foreground": "#888E9B",
     "button.background": "#FDA4AF",
     "button.foreground": "#0F172A",
-    "button.hoverBackground": "#EC4899",
+    "button.hoverBackground": "#fb7185",
     "button.secondaryForeground": "#0F172A",
     "button.secondaryBackground": "#C4CAD4",
     "button.secondaryHoverBackground": "#A6ACB7",
