@@ -2,7 +2,7 @@
   "name": "agathist-vscode-themes",
   "displayName": "Agathist Themes",
   "description": "A collection of VSCode themes based on Agathist's brand colors",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "icon": "./images/logo.png",
   "engines": {
     "vscode": "^1.22.0"
@@ -40,7 +40,7 @@
       {
         "label": "Agathist Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/agathist-dark.json"
+        "path": "./themes/agathist-dark-color-theme.json"
       }
     ]
   },

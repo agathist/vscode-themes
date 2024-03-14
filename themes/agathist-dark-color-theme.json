@@ -19,7 +19,7 @@
     "textSeparator.foreground": "#888E9B",
     "button.background": "#FDA4AF",
     "button.foreground": "#0F172A",
-    "button.hoverBackground": "#22D3EE",
+    "button.hoverBackground": "#EC4899",
     "button.secondaryForeground": "#0F172A",
     "button.secondaryBackground": "#C4CAD4",
     "button.secondaryHoverBackground": "#A6ACB7",
@@ -610,7 +610,7 @@
     },
     {
       "name": "Markup Raw",
-      "scope": "markup.raw",
+      "scope": ["markup.raw", "markup.inline.raw"],
       "settings": {
         "foreground": "#FB7185"
       }
