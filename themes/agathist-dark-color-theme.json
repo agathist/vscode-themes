@@ -265,12 +265,9 @@
     "notebook.cellToolbarSeparator": "#2D35463f",
     "notebook.focusedCellBackground": "#2D35467f",
     "notebook.focusedCellBorder": "#EC4899",
-    "notebook.focusedCellShadow": "#0000003f",
     "notebook.focusedEditorBorder": "#2D3546",
-    "notebook.focusedRowBorder": "#EC4899",
     "notebook.inactiveFocusedCellBorder": "#A6ACB7",
     "notebook.outputContainerBackgroundColor": "#0F172A",
-    "notebook.rowHoverBackground": "#2D35467f",
     "notebook.selectedCellBorder": "#888E9B",
     "notebook.symbolHighlightBackground": "#EC48993f",
     "notebookScrollbarSlider.activeBackground": "#A6ACB77f",
@@ -323,7 +320,6 @@
     "quickInput.foreground": "#E2E8F0",
     "quickInputTitle.background": "#4B5363",
     "sash.hoverBorder": "#FDA4AF",
-    "scm.providerBorder": "#4B5363",
     "scrollbar.shadow": "#0F172A",
     "scrollbarSlider.activeBackground": "#A6ACB77f",
     "scrollbarSlider.background": "#69717F7f",
@@ -447,12 +443,8 @@
     "testing.iconUnset": "#A6ACB7",
     "testing.message.error.decorationForeground": "#F43F5E",
     "testing.message.error.lineBackground": "#F43F5E3f",
-    "testing.message.hint.decorationForeground": "#FB7185",
-    "testing.message.hint.lineBackground": "#FB71853f",
     "testing.message.info.decorationForeground": "#FDA4AF",
     "testing.message.info.lineBackground": "#FDA4AF3f",
-    "testing.message.warning.decorationForeground": "#CBD5E1",
-    "testing.message.warning.lineBackground": "#CBD5E13f",
     "testing.peekBorder": "#69717F",
     "testing.runAction": "#FDA4AF",
     "textBlockQuote.background": "#2D3546",
@@ -469,8 +461,6 @@
     "tree.indentGuidesStroke": "#2D3546",
     "walkThrough.embeddedEditorBackground": "#0F172A",
     "welcomePage.background": "#0F172A",
-    "welcomePage.buttonBackground": "#2D3546",
-    "welcomePage.buttonHoverBackground": "#4B5363",
     "welcomePage.progress.background": "#FDA4AF",
     "welcomePage.progress.foreground": "#0F172A",
     "widget.shadow": "#0F172A"
@@ -478,16 +468,7 @@
   "tokenColors": [
     {
       "settings": {
-        "background": "#0F172A",
-        "foreground": "#C4CAD4",
-        "selectionBorder": "#A6ACB7",
-        "findHighlight": "#FB923C",
-        "findHighlightForeground": "#0F172A",
-        "activeGuide": "#CBD5E1",
-        "bracketsForeground": "#C4CAD47F",
-        "bracketsOptions": "stippled_underline",
-        "bracketsContentsForeground": "#C4CAD47F",
-        "tagsOptions": "stippled_underline"
+        "foreground": "#C4CAD4"
       }
     },
     {
