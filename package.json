@@ -2,7 +2,7 @@
   "name": "agathist-vscode-themes",
   "displayName": "Agathist Themes",
   "description": "A collection of VSCode themes based on Agathist's brand colors",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "icon": "./images/logo.png",
   "engines": {
     "vscode": "^1.22.0"
